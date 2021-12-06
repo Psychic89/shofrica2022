@@ -17,7 +17,10 @@ import CategoryList from '../../components/products/CategoryList';
 import reduceProductImages from '../../lib/reduceProductImages';
 
 const detailView = `<p>
-  Slightly textured fabric with tonal geometric design and a bit of shine
+  Handcrafted in 24k gold plated brass by artisans in Kenya.</p><br>
+<p>Gold products are 24k gold plated brass and match our brass style in color and tone.</p><br>
+<p>Your purchase promotes artisan innovation + entrepreneurship.</p><br>
+<p>To learn more about keeping your jewelry shining like new, see our <a href="/productcareguide" className="cjs-link" rel="noopener noreferrer">Product Care Guide.</a>
 </p>`;
 
 export default function Product() {
@@ -107,8 +110,11 @@ export default function Product() {
           </div>
           <Collapse isOpened={showShipping}>
             <div className="pb-4 font-color-medium">
-              Arrives in 5 to 7 days, returns accepted within 30
-              days. For more information, click here.
+              <p>📦 Enjoy free returns on all domestic orders.</p>
+              <br></br>
+              <p>🚚 Free standard shipping on orders over €100.</p>
+              <br></br>
+              <p>🎗️ Your purchase directly supports our artisan community.</p>
             </div>
           </Collapse>
           <div className="h-1 border-bottom border-color-black" />

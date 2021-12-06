@@ -5,34 +5,34 @@ import Modal from '../common/atoms/Modal';
 const reviews = [
   {
     stars: '5',
-    title: 'Perfect',
-    description: 'Great fit and feel. They elevate lounging to the next level!',
+    title: 'Excellent shopping experience',
+    description: 'Easy to order. Fast shipping. But the quality is what I really love. Beautifully crafted pieces, bold but elegant. Definitely recommend this site.',
     reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+    date: 'December, 2021'
   },
   {
     stars: '3.5',
-    title: 'So comfortable!',
+    title: 'Beautiful Jewelry!',
     description:
-      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+      'Nice and functional designs.',
+    reviewBy: 'Jenny N.',
+    date: 'December, 2021'
   },
   {
     stars: '4',
-    title: 'Comfy but thin',
+    title: 'Stunning',
     description:
-      'Comfortable but kinda thin for a pant. I typically wear a 32/33 pant and had to size up to XL for these to not fit like a legging. Have been wearing pretty solid for a month of so and there\'s some pilling, but not a lot. Good price for OK product.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+      'Bought some pieces amd love them all. Get many compliments on everything I’ve worn. My new go to for all my jewelry needs.',
+    reviewBy: 'Susan B.',
+    date: 'December, 2021'
   },
   {
     stars: '5',
-    title: 'So comfortable!',
+    title: 'Great company, pretty products',
     description:
-      'I sized up just in case and kind of wished I hadn’t. Very comfortable and I live in them exclusively during the weekend.',
-    reviewBy: 'Heidi C.',
-    date: 'December, 2019'
+      'Thank you. I love both of my bracelets! They are absolutely beautiful! I’ll be ordering some necklaces in the future.',
+    reviewBy: 'Valerie O.',
+    date: 'November, 2021'
   }
 ];
 

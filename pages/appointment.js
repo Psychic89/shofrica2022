@@ -10,20 +10,18 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
             <div className="h-100 d-flex flex-column py-5 px-4 px-sm-5 justify-content-center">
               <h2 className="font-size-header mb-4">
-  Cleaning D.I.Y for Brass
+  One-On-One Virtual Consultation
               </h2>
               <h4 className="font-size-subheader mb-4">
-  Mix lemon juice and baking soda into a paste, rub onto surface with a cloth, then gently rinse off and buff dry to a shine.
-</h4>
-  <div className="mt-3">
-</div>
+  Your experienced personal jewelry stylist will listen to you and help you choose or craft the perfect piece.
+              </h4>
             </div>
           </div>
 
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/cleaning.jpg" alt="Commerce.js illustration"/>
+              <img src="/packaging-illustration.jpg" alt="Commerce.js illustration"/>
             </div>
           </div>
         </div>
@@ -34,7 +32,7 @@ const About = () => (
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/polish.jpg" alt="Polish illustration"/>
+              <img src="/tribearth-illustration.jpg" alt="Netlify illustration"/>
             </div>
           </div>
         </div>
@@ -42,14 +40,10 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-  Cleaning D.I.Y. for Gold
+  Personal Shopping
             </h3>
             <h4 className="font-size-subheader mb-4">
-  Put a few drops of liquid dish detergent in a bowl of lukewarm water. Mix gently and soak the gold jewelry in the solution for 15-30 minutes. Gently scrub the jewelry with a soft-bristled toothbrush. Rinse with warm water and blot dry with a soft cloth.
-
-<p>*For wood, use tung oil or linseed oil as needed. *For ceramic wipe with a damp cloth </p> </h4>
-            <div className="mt-3">
-            </div>
+  Discover our assortment of handmade elevated essentials to build your jewelry wardrobe or give as a gift. </h4>
           </div>
         </div>
       </div>
@@ -59,39 +53,25 @@ const About = () => (
         <div className="col-12 col-md-10 col-lg-6 offset-md-1 offset-lg-0 row-content">
           <div className="h-100 d-flex flex-column justify-content-center py-5 px-4 px-sm-5">
             <h3 className="font-size-header mb-4">
-  Treat It With Love
+  Custom Design
 </h3>
             <h4 className="font-size-subheader mb-4">
-  Remove jewelry before rigorous physical activity or going to bed.
+  Work with your personal jewelry stylist to create an original custom design from sketch to finish.
             </h4>
-<h3 className="font-size-header mb-4">
-  Prolong Its Life
-</h3>
-<h4 className="font-size-subheader mb-4">
-  Store your jewelry in a cloth bag away from natural sunlight and heat.
-</h4>
-<h3 className="font-size-header mb-4">
-  Keep It Shiny
-</h3>
-<h4 className="font-size-subheader mb-4">
-  Use a gentle metal polisher for brass and gold and a soft cloth to remove tarnish and restore luster. For beads, wipe gently with warm water and a cloth.
-</h4>
-<div className="mt-3">
-</div>
           </div>
         </div>
 
         <div className="col-12 col-lg-6">
           <div className="about-image h-100">
             <div className="d-flex align-items-center justify-content-center h-100">
-              <img src="/prolong.jpg" alt="GitHub illustration"/>
+              <img src="/yabo-illustration.jpg" alt="GitHub illustration"/>
             </div>
           </div>
         </div>
       </div>
 
       {/* Row 4 */}
-
+<iframe src="https://app.squarespacescheduling.com/schedule.php?owner=22398597" title="Schedule Appointment" width="100%" height="800" frameBorder="0"></iframe><script src="https://embed.acuityscheduling.com/js/embed.js" type="text/javascript"></script>
     </div>
     <Footer />
   </Root>
