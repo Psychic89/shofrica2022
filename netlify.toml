@@ -1,5 +1,5 @@
 [build]
-  command = “CI= yarn build”
+  command = "yarn deploy"
   publish = "out"
 
 [[plugins]]
