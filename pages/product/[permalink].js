@@ -110,11 +110,11 @@ export default function Product() {
           </div>
           <Collapse isOpened={showShipping}>
             <div className="pb-4 font-color-medium">
-              <p>📦 Enjoy free returns on all domestic orders.</p>
+              <p>Enjoy free returns on all domestic orders.</p>
               <br></br>
-              <p>🚚 Free standard shipping on orders over €100.</p>
+              <p>Free standard shipping on orders over €100.</p>
               <br></br>
-              <p>🎗️ Your purchase directly supports our artisan community.</p>
+              <p>Your purchase directly supports our artisan community.</p>
             </div>
           </Collapse>
           <div className="h-1 border-bottom border-color-black" />
