@@ -11,10 +11,10 @@ const Footer = () => (
   <div className="d-flex font-color-medium mb-5 pb-3 pb-md-0 mb-md-0">
   <div className="pr-5">
   <a
-href="/giftguide"
+href="/b2bwholesaleplatform"
 className="mb-3 d-block font-color-medium"
   >
-  Gifting
+  B2B Wholesale Platform
   </a>
   <a
 href="/productcareguide"
@@ -22,7 +22,12 @@ className="mb-3 d-block font-color-medium"
   >
   Product Care Guide
 </a>
-
+<a
+href="/giftguide"
+className="mb-3 d-block font-color-medium"
+  >
+  Gifting
+  </a>
 <a
 href="/collection"
 className="d-block font-color-medium"

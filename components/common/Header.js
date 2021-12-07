@@ -34,6 +34,10 @@ const mobileMenuLinks = [
   {
     name: 'About',
     link: '/about'
+  },
+  {
+    name: 'B2B Platform',
+    link: '/b2bwholesaleplatform'
   }
 ];
 
@@ -186,6 +190,9 @@ class Header extends Component {
           <div className="d-none d-sm-flex">
             <Link href="/collection">
               <a className="mr-4 font-color-black">Shop</a>
+            </Link>
+            <Link href="/b2bwholesaleplatform">
+              <a className="mr-4 font-color-black">B2B-Platform</a>
             </Link>
             <Link href="/about">
               <a className="font-color-black">About</a>
