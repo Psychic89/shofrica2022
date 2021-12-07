@@ -37,7 +37,7 @@
   },
   "devDependencies": {
     "@chec/seeder": "^1.1.1",
-    "eslint": "^8.4.1",
+    "eslint": "8.4.1",
     "eslint-config-next": "11.1.2"
   }
 }
