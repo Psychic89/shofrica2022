@@ -1,5 +1,6 @@
 [build]
-  command = "yarn build"
+  NODE_VERSION = "14.17.0"
+  command = "yarn deploy"
   publish = "out"
 
 [[plugins]]
