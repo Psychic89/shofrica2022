@@ -1,5 +1,5 @@
 [build]
-  command = "CI= yarn deploy"
+  command = "CI= npm run build"
   publish = "out"
 
 [[plugins]]
