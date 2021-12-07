@@ -13,7 +13,7 @@ const About = () => (
   Press
               </h2>
               <h4 className="font-size-subheader mb-4">
-  Read what people are saying about us online!
+  Read what people are saying about us online.
 </h4>
               <div className="about-cjs mt-3 d-flex flex-row">
                 <a className="px-4 py-3 font-color-white about-doc" href="https://commercejs.com/docs/" target="_blank">
