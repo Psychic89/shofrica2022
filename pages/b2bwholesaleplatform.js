@@ -75,7 +75,7 @@ Partnering with us allows you to leverage our platform and work with our artisan
   Private Label Partnerships
 </h3>
 <h4 className="font-size-subheader mb-4">
-  Buy pre-designed pieces to label with your company's logo/name.
+  Buy pre-designed pieces to label with your company's logo or name.
 </h4>
 <h3 className="font-size-header mb-4">
   Manufacturing Partnerships
