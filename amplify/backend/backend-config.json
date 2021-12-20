@@ -1,0 +1,44 @@
+{
+  "hosting": {
+    "ElasticContainer": {
+      "resourceName": "site",
+      "service": "ElasticContainer",
+      "providerPlugin": "awscloudformation",
+      "domain": "www.shofrica.com",
+      "restrictAccess": false,
+      "category": "hosting",
+      "categoryPolicies": [],
+      "dependsOn": [
+        {
+          "category": "",
+          "resourceName": "NetworkStack",
+          "attributes": [
+            "ClusterName",
+            "VpcId",
+            "VpcCidrBlock",
+            "SubnetIds",
+            "VpcLinkId",
+            "CloudMapNamespaceId"
+          ]
+        }
+      ],
+      "deploymentMechanism": "FULLY_MANAGED",
+      "environmentMap": {},
+      "mutableParametersState": {},
+      "exposedContainer": {
+        "name": "api",
+        "port": 3000
+      },
+      "output": {},
+      "hostedZoneId": "Z0413993CYV9R5LYIN80",
+      "iamAccessUnavailable": true
+    }
+  },
+  "auth": {
+    "cognito3568f650": {
+      "service": "Cognito",
+      "serviceType": "managed",
+      "providerPlugin": "awscloudformation"
+    }
+  }
+}

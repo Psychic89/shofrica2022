@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shofricafargatenew-dev-181802-authRole",
+      "UnauthRoleArn": "arn:aws:iam::398207638253:role/amplify-shofricafargatenew-dev-181802-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::398207638253:role/amplify-shofricafargatenew-dev-181802-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-shofricafargatenew-dev-181802-deployment",
+      "UnauthRoleName": "amplify-shofricafargatenew-dev-181802-unauthRole",
+      "StackName": "amplify-shofricafargatenew-dev-181802",
+      "StackId": "arn:aws:cloudformation:us-east-1:398207638253:stack/amplify-shofricafargatenew-dev-181802/7a86a170-6026-11ec-b974-129b0ebd9c57",
+      "AmplifyAppId": "d1phiq7xo7sf2k"
+    },
+    "categories": {
+      "auth": {
+        "cognito3568f650": {}
+      }
+    }
+  }
+}
