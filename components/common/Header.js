@@ -191,9 +191,9 @@ class Header extends Component {
             <Link href="/collection">
               <a className="mr-4 font-color-black">Shop</a>
             </Link>
-            <Link href="/b2bwholesaleplatform">
+    {/*<Link href="/b2bwholesaleplatform">
               <a className="mr-4 font-color-black">B2B-Platform</a>
-            </Link>
+            </Link>*/}
             <Link href="/about">
               <a className="font-color-black">About</a>
             </Link>
