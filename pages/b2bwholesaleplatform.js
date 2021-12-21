@@ -53,7 +53,7 @@ const About = () => (
 <h4 className="font-size-subheader mb-4">
 Partnering with us allows you to leverage our platform and work with our artisans in a capacity that works best for you. From wholesale to private label, SHOFRICA is here to support your business.</h4>
             <div className="mt-3">
-              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="http://platform.shofrica.com">
+              <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://shofrica.org">
                 GO TO PLATFORM
               </a>
             </div>
@@ -84,7 +84,7 @@ Partnering with us allows you to leverage our platform and work with our artisan
   Work with us from design to production to create jewelry tailored for your needs.
 </h4>
 <div className="mt-3">
-  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="http://platform.shofrica.com">
+  <a className="px-4 py-3 flex-grow-1 font-color-white about-net" href="https://shofrica.org">
   GO TO PLATFORM
 </a>
 </div>
