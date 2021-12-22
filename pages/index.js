@@ -14,7 +14,7 @@ const Home = () => (
     <Head>
       <title>Shofrica | Everyday Artisan Handmade Jewelry</title>
 <!-- Pixel Code for http://18.184.218.242/ -->
-<script async src="http://18.184.218.242/pixel/yw17f11udoyo99tumxe62ewrox80fw5d"></script>
+<script async src="http://18.184.218.242/pixel/rotltu8bxy7vx299p8tnxaofcwp4y24n"></script>
   <!-- END Pixel Code -->
     </Head>
 
